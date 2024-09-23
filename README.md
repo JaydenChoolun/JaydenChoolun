@@ -5,8 +5,3 @@
 - 📫 How to reach me ... jrchoolun@gmail.com 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I play a lot of games :)
-
-<!---
-JaydenChoolun/JaydenChoolun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
